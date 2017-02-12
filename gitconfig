@@ -1,0 +1,13 @@
+[user]
+	name = Changki Eun
+	email = eunckck@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = true
+	branch = true
+	diff = true
+	interactive = true
+	status = true
+[merge]
+	tool = vimdiff
